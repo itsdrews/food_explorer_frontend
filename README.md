@@ -16,7 +16,7 @@
 
 Desafio final da trilha Explorer. Consiste em criar uma interface interativa e funcional de um restaurante fictício.
 
-Back-end disponível no GitHub em:[link do repositório back-end]
+Back-end disponível no GitHub em:https://github.com/itsdrews/food_explorer_backend
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
@@ -72,7 +72,7 @@ Você também pode executá-la em sua máquina localmente. Certifique-se de ter 
 1. Clone o projeto:
 
 ```
-$ git clone link-do-repositório-front-end
+$ git clone https://github.com/itsdrews/food_explorer_frontend
 ```
 
 2. Acesse a pasta do projeto:
