@@ -65,7 +65,7 @@ A aplicação dispõe das seguintes interfaces:
 
 <h2 id="usage">💡 Utilização</h2>
 
-A aplicação Food Explorer está disponível para uso [aqui](link weblify).
+A aplicação Food Explorer está disponível para uso https://f00dexplorer.netlify.app/.
 
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
